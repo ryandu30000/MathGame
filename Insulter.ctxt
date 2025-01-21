@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Insulter
+comment0.text=\r\n\ Sprite\ who\ insults\ the\ wraith.\r\n\ \r\n\ @author\ Ryan\ Du\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=
+comment1.target=Insulter()
+comment1.text=\r\n\ Constructor\ for\ the\ objects\ of\ class\ Insulter.\r\n
+comment2.params=
+comment2.target=void\ animationsequence1()
+comment2.text=\r\n\ Runs\ to\ the\ end\ of\ the\ world.\r\n
+comment3.params=
+comment3.target=boolean\ getCanMove()
+comment3.text=\r\n\ returns\ the\ boolean\ value\ of\ canMove;\r\n
+comment4.params=
+comment4.target=void\ addedToMyWorld()
+comment4.text=\r\n\ Does\ the\ animation\ sequence\ when\ added\ to\ MyWorld.\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Act\ -\ do\ whatever\ the\ Insulter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=6

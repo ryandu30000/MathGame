@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Box
+comment0.text=\r\n\ Box\ where\ the\ question\ goes.\r\n\ \r\n\ @author\ Ryan\ Du\ \r\n\ @version\ Jan\ 2023\r\n
+comment1.params=
+comment1.target=Box()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Box.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Box\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

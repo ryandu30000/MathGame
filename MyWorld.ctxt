@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Intro\ scene\ to\ the\ game.\r\n\ \r\n\ @author\ Ryan\ Du\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ switchGame()
+comment2.text=\r\n\ Changes\ the\ world\ to\ World1.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Do\ whatever\ the\ world\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=4

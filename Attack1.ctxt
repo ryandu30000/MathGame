@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Attack1
+comment0.text=\r\n\ Rocket\ that\ ends\ the\ game.\r\n\ \r\n\ @author\ Ryan\ Du\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=
+comment1.target=Attack1()
+comment1.text=\r\n\ Constructor\ for\ the\ objects\ of\ class\ Attack1.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Attack1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=spd
+comment3.target=void\ setSpeed(int)
+comment3.text=\r\n\ Changes\ the\ speed\ of\ the\ rocket.\r\n
+numComments=4

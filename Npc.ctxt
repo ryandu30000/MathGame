@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Npc
+comment0.text=\r\n\ Npc\ decoration\ with\ an\ animation.\r\n\ \r\n\ @author\ Ryan\ Du\r\n\ @version\ Jan\ 2023\r\n
+comment1.params=
+comment1.target=Npc()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ the\ class\ Npc.\r\n
+comment2.params=
+comment2.target=void\ sequence()
+comment2.text=\r\n\ Does\ an\ animation\ in\ place.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Npc\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=4
